@@ -1,0 +1,36 @@
+body{
+    background-color:khaki ;
+    font-size: 100%;
+}
+
+#box1{
+    margin:10px;
+    padding:10px;
+    border:1px solid black;
+    background-color: slateblue;
+    /* width: 50px; */
+    /* box-sizing: content-box; */
+    float: left;
+}
+
+#box2{
+    margin:10px;
+    padding:10px;
+    border:1px solid black;
+    background-color: brown;
+    /* width: 50px; */
+    /* box-sizing: content-box; */
+    float: left;
+
+}
+
+#box3{
+    margin:10px;
+    padding:10px;
+    border:1px solid black;
+    background-color: teal;
+    /* width: 50px; */
+    /* box-sizing: content-box; */
+    float: left;
+
+}
